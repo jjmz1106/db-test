@@ -1,6 +1,6 @@
 package db;
 
-public class test {
+public class swap {
 	
 	public static void main(String[] args) {
 		
